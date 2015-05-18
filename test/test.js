@@ -3,7 +3,7 @@ var assert = require("assert")
   , gfeed = require("../lib/google-feed-api.js")
 
 // test specifics
-  , feedUrl = 'http://politiken.dk/rss/senestenyt.rss';
+  , feedUrl = 'http://feeds.feedburner.com/QSCBlog';
 
 
 describe('gfeed', function() {
